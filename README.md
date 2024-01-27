@@ -1,6 +1,6 @@
 # Maharah Sebha - Laravel Training
 
-Code and resources for Maharah Sebha PHP Training.
+Code and resources for Maharah Sebha Laravel Training.
 
 ## Day - 1
 
